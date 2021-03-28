@@ -31,6 +31,7 @@ public class StudentRegistrationForm {
 
     public void openPage() {
         open("https://demoqa.com/automation-practice-form");
+        $(".practice-form-wrapper").shouldHave(text("Student Registration Form"));
     }
 
     public void fillForm() {
