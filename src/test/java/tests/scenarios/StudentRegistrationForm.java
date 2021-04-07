@@ -21,7 +21,6 @@ public class StudentRegistrationForm {
             month = "April",
             year = "1904",
             day = "26",
-    //            dayOfWeekOfBirth = "Tuesday",
     subject = "",
             hobby = "Music",
             picture = ".gitignore",
